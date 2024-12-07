@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋   [![](https://visitcount.itsvg.in/api?id=ankit-Techie108&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on Web application Deployment project
 - 🌱 I’m currently learning DevOps Tools
@@ -7,7 +7,11 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ankitkumar108/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Think I am funny
-  
+
+ ## About Me
+I am an aspiring DevOps Engineer who enjoys automation, continuous integration, and deployment. With Hands-on experience in DevOps and Cloud Computing, I am proficient in various tools and technologies related to infrastructure automation, containerization, cloud platforms, monitoring and logging, and CI/CD. My ultimate objective is to assist organizations in achieving quicker, more effective software delivery while maintaining high levels of quality and dependability.
+
+I am dedicated to staying up-to-date with the latest technologies and trends in the industry and continuously improving my skills to deliver high-quality solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitkumar108/) 
@@ -23,6 +27,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ankit-Techie108&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ankit-Techie108&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
